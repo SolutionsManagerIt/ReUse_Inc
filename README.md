@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About ReUse Inc
 
-You can use the [editor on GitHub](https://github.com/SolutionsManagerIt/ReUse_Inc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Well, [ReUse Inc](https://pizza-soft.ru/2020/04/30/about-reuse-inc/) is just yet another experimental non-commercial economic structure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is an open sourced and crowd funded platform to create high qualification empowered complex items that require a lot of human efforts and then distribute it for the good of society.
 
-### Markdown
+Items may be created as open source and available for free.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+However, some specific items are produced for gaining value to support the growth of the structure, making it [efficient, self grow and evolve](https://pizza-soft.ru/2020/04/30/the-efficiency-at-reuse-inc/) via the constant employee qualification increase.
 
-```markdown
-Syntax highlighted code block
+Every [“employee“](https://pizza-soft.ru/2020/04/30/employees-of-reuse-inc/), or a structure representative act as an independent agent with his own goals. Nevertheless, every [efforts are imposed](https://pizza-soft.ru/2020/04/30/the-time-in-reuse-inc/) to increase their skills and help grow the common value.
 
-# Header 1
-## Header 2
-### Header 3
+Every representative [earn internal points](https://pizza-soft.ru/2020/04/30/career-plan-in-reuse-inc/) that acts like a share to [get a total value part](https://pizza-soft.ru/2020/04/30/value-share-parts/) for the accounted period.
 
-- Bulleted
-- List
+Through their [skills and qualification growth](https://pizza-soft.ru/2020/04/30/what-do-i-get-from-reuse-inc/), the total value gain and shared part will increase as well as the [motivation and structure stability](https://pizza-soft.ru/2020/04/30/discuss-it-all-in-reuse-inc/) with the [100% Trust policy](https://pizza-soft.ru/2020/04/30/trust-100-policy/). 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SolutionsManagerIt/ReUse_Inc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
